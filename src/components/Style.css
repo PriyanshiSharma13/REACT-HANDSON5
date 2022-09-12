@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: grey;
+    font-style: italic;
+    text-align: center;
+}
+.humanText{
+    color: orange;
+    margin-top: 50px;
+}
+.gradText{
+    color: antiquewhite;
+}
+.cls{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.label1{
+    color: aquamarine;
+}
+.fn, .ln{
+    color: yellow;
+}
+.des{
+    margin-top: 20px;
+}
+button{
+    margin-top: 20px;
+    width: 8%;
+    height: 30px;
+    border: none;
+    border-radius: 6px;
+    background-color: yellowgreen;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
